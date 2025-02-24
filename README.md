@@ -1,6 +1,5 @@
-# FullStack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL & TypeScript
+# FullStack LiveStreamer: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL & TypeScript
 
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
 
 Key Features:
 
@@ -40,7 +39,7 @@ Key Features:
 ### Cloning the Repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/twitch-clone.git
+git clone https://github.com/ProNeverDies/LivesStream.git
 ```
 
 ### Install Packages
